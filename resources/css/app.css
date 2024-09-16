@@ -1,0 +1,163 @@
+.container {
+    width: 1600px;
+    height: 92px;
+    position: relative;
+  }
+  
+  .background {
+    width: 1600px;
+    height: 92px;
+    position: absolute;
+    background: #1C1E53;
+  }
+  
+  .contact-button {
+    width: 185px;
+    height: 60px;
+    position: absolute;
+    left: 1255px;
+    top: 16px;
+  }
+  
+  .contact-border {
+    width: 185px;
+    height: 60px;
+    border-radius: 41px;
+    border: 2px rgba(244, 246, 252, 0.20) solid;
+    position: absolute;
+  }
+  
+  .contact-text {
+    width: 89px;
+    position: absolute;
+    left: 48px;
+    top: 16px;
+    color: white;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 28px;
+  }
+  
+  .menu-item {
+    position: absolute;
+    color: #BBBBCB;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 28px;
+  }
+  
+  .menu-item.home {
+    width: 48px;
+    left: 734px;
+    top: 31.89px;
+    color: white;
+  }
+  
+  .menu-item.about {
+    width: 72px;
+    left: 814px;
+    top: 32.05px;
+  }
+  
+  .menu-item.features {
+    width: 70px;
+    left: 918px;
+    top: 32.05px;
+  }
+  
+  .menu-item.pricing {
+    width: 55px;
+    left: 1020px;
+    top: 32.05px;
+  }
+  
+  .menu-item.faq {
+    width: 32px;
+    left: 1107px;
+    top: 32.05px;
+  }
+  
+  .menu-item.blog {
+    width: 36px;
+    left: 1171px;
+    top: 32.05px;
+  }
+  
+  .logo {
+    width: 122px;
+    height: 24.71px;
+    position: absolute;
+    left: 160px;
+    top: 33px;
+  }
+  
+  .logo-part {
+    position: absolute;
+    background: white;
+  }
+  
+  .logo-part-1 {
+    width: 8.45px;
+    height: 16.79px;
+    left: 113.34px;
+    top: 5.10px;
+  }
+  
+  .logo-part-2 {
+    width: 13.64px;
+    height: 14.20px;
+    left: 98.43px;
+    top: 7.74px;
+  }
+  
+  .logo-part-3 {
+    width: 13.63px;
+    height: 14.20px;
+    left: 83.18px;
+    top: 7.74px;
+  }
+  
+  .logo-part-4 {
+    width: 20.67px;
+    height: 13.61px;
+    left: 61.77px;
+    top: 8.03px;
+  }
+  
+  .logo-part-5 {
+    width: 11.68px;
+    height: 14.20px;
+    left: 49.21px;
+    top: 7.71px;
+  }
+  
+  .logo-part-6 {
+    width: 12.72px;
+    height: 13.96px;
+    left: 34.21px;
+    top: 7.71px;
+  }
+  
+  .logo-part-7 {
+    width: 3.78px;
+    height: 18.98px;
+    left: 27px;
+    top: 2.66px;
+  }
+  
+  .logo-part-8 {
+    width: 11.94px;
+    height: 18.59px;
+    left: 12.77px;
+    top: 3.04px;
+  }
+  
+  .logo-part-9 {
+    width: 8.56px;
+    height: 24.63px;
+    left: 0px;
+    top: 0px;
+  }
+  
